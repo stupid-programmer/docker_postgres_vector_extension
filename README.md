@@ -12,3 +12,6 @@ The connection details and database name can be set within the docker-compose.ym
   - POSTGRES_USER=postgres
   - POSTGRES_PASSWORD=postgres
   - POSTGRES_DB=vectorexample
+
+
+  ##### Needless to say, this is not meant to be for production use.
